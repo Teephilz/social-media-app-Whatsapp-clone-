@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1004425759432",
+    "project_id": "tphilz-social-media-app",
+    "storage_bucket": "tphilz-social-media-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004425759432:android:a7530d89301832f2b133fd",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004425759432-mi78s4v971kqr2pk8en3ln21mgoqf8ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVazdcaQ8thvKqUELk87Vd1Fcsrd8K4cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004425759432-hscetqls4rlsurb0cmmj5o1b2foraqdi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1004425759432-t4k5ldjhcs79kgdonsrthp56cni626e3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tphilzSocialApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
